@@ -3125,7 +3125,7 @@ Wondering how to configure search sources? Click here.
 ```
 translated (by machine 🤖) as:
 ```
-Sie fragen sich, wie Sie Suchquellen konfigurieren können? Klick hier.
+Du fragst dich, wie du Suchquellen konfigurieren kannst? Klick hier.
 ```
 
 
